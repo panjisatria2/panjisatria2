@@ -1,4 +1,4 @@
-## Panji Satria Wibowo  
+# Panji Satria Wibowo  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge&logoWidth=30)](https://facebook.com/share/1AJB73UshA/)
