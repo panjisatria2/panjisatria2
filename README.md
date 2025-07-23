@@ -1,6 +1,4 @@
 # 👋 Hi, I'm **Panji Satria Wibowo**  
-🌟 _Tech Enthusiast | Fullstack Learner | Problem Solver_
-
 ---
 
 ## 🧑‍💻 About Me
