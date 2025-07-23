@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me
 Saya adalah mahasiswa D4 Teknik Informatika di **Politeknik Harapan Bersama** yang antusias dalam pengembangan perangkat lunak, dan teknologi modern.  
-Saya menyukai tantangan baru, suka mengeksplorasi backend maupun frontend development, dan aktif mengembangkan berbagai proyek berbasis Flutter.
+Saya menyukai tantangan baru, suka mengeksplorasi backend maupun frontend development, dan aktif mengembangkan berbagai proyek berbasis Flutter dan web.
 ---
 
 ## 📊 GitHub Stats
