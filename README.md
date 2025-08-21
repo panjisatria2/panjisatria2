@@ -8,18 +8,10 @@
 
 ---
 
-## 🚀 About Me
+<img align="center" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 📱 **Flutter Beginner** passionate about mobile app development
-- 🌱 Currently learning **Dart & Flutter** from scratch
-- 🎯 Building my first mobile apps step by step
-- 📚 Following tutorials and practicing daily
-- 💡 Excited to create apps that solve real problems
-- 🎮 When not coding, I enjoy gaming and exploring new tech
-
-<br clear="right"/>
+<br clear="center"/>
 
 ---
 
